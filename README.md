@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivien Brocvielle</h1>
 <h3 align="center">A passionate react native and flutter, from France.</h3>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HoverFo/count.svg" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vivien brocvielle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivien brocvielle" height="30" width="40" /></a>
